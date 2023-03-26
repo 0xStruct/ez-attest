@@ -1,0 +1,3 @@
+// same address for mainnet and goerli
+export const AttestationStationAddress = '0xEE36eaaD94d1Cc1d0eccaDb55C38bFfB6Be06C77'
+export const PolybasePubkey = 'pk/0x8d4dd155f0b2ce92fcfcfef99fc4abbce9b08c706fac94773be95771c817d068f45d12d648208a0776942565cea3379a29ddf9de92fc98899d3ff4235d96e105/poly-attest'
