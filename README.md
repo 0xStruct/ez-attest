@@ -17,4 +17,6 @@ Polybase is used to store metadata for attestations. [Polybase schema](https://e
 
 Optimism's attestation is linked to Polybase collection item; extending its value. React-admin is used to build the powerful admin screens with a custom-built data provider to interact with Polybase data.
 
-An admin panel for a Polybase collection can be easily built by referring to an existing screen in `src/screens/Attest.tsx` file. In less than a few minutes, new panel is ready. Custom data provider for Polybase is in `src/providers/dataProviders.polybase.ts` file.
+An admin panel for a Polybase collection can be easily built by referring to an existing screen in [src/screens/Attest.tsx](src/screens/Attest.tsx) file. 
+
+Within a few minutes, new panel can be built. Custom data provider for Polybase is in [src/providers/dataProviders.polybase.ts](src/providers/dataProviders.polybase.ts) file.
