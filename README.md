@@ -11,6 +11,8 @@ In short, this project provides:
 - comprehensive admin panel to manage collections data in Polybase like an Airtable
 - tool to manage attestations, and facilitates dynamic and extensible attestation values
 
+Demo: https://vimeo.com/813754930
+
 ## How is it made?
 
 Polybase is used to store metadata for attestations. [Polybase schema](https://explorer.testnet.polybase.xyz/studio/pk%2F0x8d4dd155f0b2ce92fcfcfef99fc4abbce9b08c706fac94773be95771c817d068f45d12d648208a0776942565cea3379a29ddf9de92fc98899d3ff4235d96e105%2Fpoly-attest) 
