@@ -21,4 +21,4 @@ Optimism's attestation is linked to Polybase collection item; extending its valu
 
 An admin panel for a Polybase collection can be easily built by referring to an existing screen in [src/screens/Attest.tsx](src/screens/Attest.tsx) file. 
 
-Within a few minutes, new panel can be built. Custom data provider for Polybase is in [src/providers/dataProviders.polybase.ts](src/providers/dataProviders.polybase.ts) file.
+Within a few minutes, new panel can be built. Custom data provider for Polybase is in [src/providers/dataProvider.polybase.ts](src/providers/dataProvider.polybase.ts) file.
